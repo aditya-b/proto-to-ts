@@ -17,7 +17,7 @@ This project generates typescript files for proto files. This uses `protoc` and 
 - Give necessary execution permissions
 - Move the protos to `/protos` folder
 - Run the command `./generate-ts.sh <PROT_FILE_NAME_WITHOUT_EXTENSION>`
-- The typescript file is generated in `/types` folder
+- The typescript file is generated in `/types/protos` folder
 
 
 ## Support
